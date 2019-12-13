@@ -25,7 +25,7 @@ SECRET_KEY = 'qra(1&%^5o)e_%75m0@6oe3wbng)$sd40hc1nr7s54n4+g^84)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
